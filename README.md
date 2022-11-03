@@ -1,5 +1,4 @@
 # Apple-Orange-Detection
 
 
-https://user-images.githubusercontent.com/43055935/199639303-0a9e0955-5bd0-4735-9467-c4924d44b38e.mp4
-
+![sample](https://user-images.githubusercontent.com/43055935/199639677-f07c3aa8-702c-4340-a2ff-c73e175889d6.gif)
