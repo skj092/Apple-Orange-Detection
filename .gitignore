@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Huge data
+/yolov5
+/Yolov5_DeepSort_Pytorch
